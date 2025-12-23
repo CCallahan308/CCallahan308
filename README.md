@@ -1,14 +1,13 @@
 ## Hi, I'm Christian 👋
 
-Business Intelligence Analyst at a critical access hospital, dual MBA / M.S. Data Science candidate, and **Python-first** builder of financial and clinical analytics systems.[file:1][file:2] I focus on turning messy operational data into reliable decision engines that protect revenue, improve patient experience, and scale with minimal manual intervention.[file:1][file:2]
-
+Business Intelligence Analyst at a critical access hospital, dual MBA / M.S. Data Science candidate, and **Python-first** builder of financial and clinical analytics systems.[file:1][file:2] I focus on turning messy operational data into reliable decision engines that protect revenue, improve patient experience, and scale with minimal manual intervention.
 ---
 
 ## What I’m Working On
 
-- Automating clinical and financial reporting for a rural health system using T-SQL, Tableau, and Python ELT pipelines.[file:1][file:2]  
-- Building institutional-grade algorithmic trading and backtesting frameworks with walk-forward validation, realistic transaction costs, and robust risk management.[file:1][file:3]  
-- Developing web-based financial modeling tools that generate fully linked 3-statement models and interactive dashboards from live market data.[file:1][file:3]
+- Automating clinical and financial reporting for a rural health system using T-SQL, Tableau, and Python ELT pipelines.
+- Building institutional-grade algorithmic trading and backtesting frameworks with walk-forward validation, realistic transaction costs, and robust risk management.
+- Developing web-based financial modeling tools that generate fully linked 3-statement models and interactive dashboards from live market data.
 
 ---
 
