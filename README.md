@@ -1,4 +1,3 @@
-## Hi, I'm Christian 👋
 
 Business Intelligence Analyst at a critical access hospital, dual MBA / M.S. Data Science candidate, and **Python-first** builder of financial and clinical analytics systems. I like turning messy operational data into reliable decision engines that protect revenue, improve patient experience, and scale without a lot of manual effort.
 ---
@@ -43,9 +42,3 @@ Business Intelligence Analyst at a critical access hospital, dual MBA / M.S. Dat
 - Curious about quantitative finance, automated decision systems, and how clinical operations, risk, and financial performance connect in healthcare.
 
 ---
-
-### Let’s Connect
-
-- LinkedIn: [Christian Callahan](https://www.linkedin.com/in/christian--callahan)  
-- GitHub: [CCallahan308](https://github.com/CCallahan308)  
-- Email: callachris@proton.me
