@@ -6,7 +6,7 @@ Business Intelligence Analyst at a critical access hospital, dual MBA / M.S. Dat
 ## What I’m Working On
 
 - Automating clinical and financial reporting for a rural health system using T-SQL, Tableau, and Python ELT pipelines.
-- Building algorithmic trading and backtesting frameworks with walk-forward validation, realistic transaction costs, and solid risk controls.
+- Building algorithmic trading and backtesting frameworks with walk-forward validation, realistic transaction costs, and robust risk management.
 - Developing web-based financial modeling tools that generate fully linked 3-statement models and interactive dashboards from live market data.
 
 ---
@@ -15,7 +15,7 @@ Business Intelligence Analyst at a critical access hospital, dual MBA / M.S. Dat
 
 - Lifted NPS by 22% and reached 75th-percentile patient satisfaction by building PDCA and HCAHPS analytics teams could act on.  
 - Replaced a failed \$150k vendor reporting platform with in-house Tableau dashboards, saving \$10k annually and speeding up executive reporting.  
-- Built SQL staging environments and T-SQL workflows to keep EMR migrations and insurance billing feeds accurate in a critical access hospital.
+- Built SQL staging environments and T-SQL workflows to ensure data integrity for EMR migrations and insurance billing feeds in a critical access hospital.
 
 ---
 
