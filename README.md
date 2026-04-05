@@ -10,10 +10,11 @@ I build systems that predict customer behavior and business outcomes. My focus: 
 
 | Project | What It Does | Result |
 |---------|--------------|--------|
-| [SignalForge](https://github.com/CCallahan308/saas-churn-simulator) | Churn prediction + uplift modeling + budget optimization | 0.85 AUC, 29x modeled ROI |
+| [SaaS Churn Simulator](https://github.com/CCallahan308/saas-churn-simulator) | Churn prediction + ROI simulator | [🔴 Live Demo](https://saas-churn-simulator-ccallahan308.streamlit.app/) · 0.85 AUC, 3.2x lift |
+| [SignalForge](https://christiangcallahan.tech/projects/signalforge) | Uplift modeling + budget optimization | 29x modeled ROI |
 | [Ticket Intel](https://github.com/CCallahan308/ticket-intel) | NLP pipeline for support ticket routing | 12ms p99 latency, 500+ req/sec, 90% F1 |
-| [AutoModeler](https://github.com/CCallahan308/automodeler) | Auto-generates 3-statement financial models | Outputs linked Excel with native formulas |
-| [Subscription Churn](https://github.com/CCallahan308/ecommerce-retention-growth) | XGBoost for 30-day churn with SHAP explainability | 0.84 AUC on 484K holdout |
+| [Subscription Churn](https://github.com/CCallahan308/ecommerce-retention-growth) | XGBoost for 30-day churn with SHAP | 0.84 AUC on 484K holdout |
+| [AutoModeler](https://github.com/CCallahan308/automodeler) | Auto-generates 3-statement financial models | Linked Excel with native formulas |
 
 ---
 
