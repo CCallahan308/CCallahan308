@@ -1,16 +1,40 @@
-## Hi there 👋
+# Christian Callahan
 
-<!--
-**CCallahan308/CCallahan308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Scientist — Churn, Retention, Revenue Optimization**
 
-Here are some ideas to get you started:
+I build systems that predict customer behavior and business outcomes. My focus: churn prediction, lifetime value modeling, and retention strategy. I turn messy transactional data into models that tell you which customers will leave, how much they're worth, and what to do about it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Proof Points
+
+| Project | What It Does | Result |
+|---------|--------------|--------|
+| [SignalForge](https://github.com/CCallahan308/saas-churn-simulator) | Churn prediction + uplift modeling + budget optimization | 0.85 AUC, 29x modeled ROI |
+| [Ticket Intel](https://github.com/CCallahan308/ticket-intel) | NLP pipeline for support ticket routing | 12ms p99 latency, 500+ req/sec, 90% F1 |
+| [AutoModeler](https://github.com/CCallahan308/automodeler) | Auto-generates 3-statement financial models | Outputs linked Excel with native formulas |
+| [Subscription Churn](https://github.com/CCallahan308/ecommerce-retention-growth) | XGBoost for 30-day churn with SHAP explainability | 0.84 AUC on 484K holdout |
+
+---
+
+### Stack
+
+`Python` `XGBoost` `LightGBM` `Scikit-learn` `SHAP` `FastAPI` `SQL` `MLflow` `Docker` `Streamlit`
+
+---
+
+### Background
+
+- **Current:** Business Intelligence Analyst, Community Hospital (2022–Present)
+- **Education:** Dual MBA & MS Data Science, Eastern University (expected 2027)
+- **Previous:** Law enforcement — learned to find patterns in noisy data and explain them fast
+
+---
+
+### Contact
+
+🔗 [Portfolio](https://christiangcallahan.tech) • [LinkedIn](https://www.linkedin.com/in/christian--callahan/) • [Email](mailto:Christian.G.Callahan@gmail.com)
+
+---
+
+> From law enforcement to data science — I know how to find signals in noise.
