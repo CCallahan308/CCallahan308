@@ -1,8 +1,8 @@
 # Christian Callahan
 
-**Data Scientist — I figure out who leaves, who buys, and what to do about it.**
+**Data Scientist - I figure out who leaves, who buys, and what to do about it.**
 
-I'm not a machine learning researcher. I build practical systems that help businesses make better decisions. Churn prediction, customer lifetime value, retention strategy — that's my thing.
+I'm not a machine learning researcher. I build practical systems that help businesses make better decisions. Churn prediction, customer lifetime value, retention strategy - that's my thing.
 
 Currently working full-time as a BI analyst while pursuing dual Master's degrees (MBA + MS Data Science). Building my portfolio on nights and weekends.
 
@@ -10,10 +10,10 @@ Currently working full-time as a BI analyst while pursuing dual Master's degrees
 
 ### What I'm Working On
 
-**[SignalForge](https://github.com/CCallahan308/signalforge)** — Production churn prediction with statistical rigor
+**[SignalForge](https://github.com/CCallahan308/signalforge)** - Production churn prediction with statistical rigor
 
 This isn't a bootcamp project. I built it to understand how to use statistical methods the right way:
-- **Real data** from Kaggle (IBM Telco dataset — 7,043 customers)
+- **Real data** from Kaggle (IBM Telco dataset - 7,043 customers)
 - **Statistical rigor**: 5-fold cross-validation, bootstrap confidence intervals, significance testing
 - **Business impact**: Found $1.67M annual revenue at risk, 1.21x-1.81x expected ROI
 - **Not just "best model"**: Proved Logistic Regression beats Random Forest with statistical significance (p=0.0074)
