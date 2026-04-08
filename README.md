@@ -22,7 +22,7 @@ The interesting part: LR beat both ensemble models, and the margin was only stat
 |---------|--------------|--------|
 | [Ticket Intel](https://github.com/CCallahan308/ticket-intel) | NLP ticket routing | 12ms p99, 90% F1 |
 | [SaaS Churn Simulator](https://github.com/CCallahan308/saas-churn-simulator) | Churn + ROI calculator | 0.85 AUC, 3.2x lift |
-| [Subscription Churn](https://github.com/CCallahan308/ecommerce-retention-growth) | XGBoost + SHAP explainability | 0.84 AUC, 484K holdout |
+| [E-Commerce Retention & Growth](https://github.com/CCallahan308/ecommerce-retention-growth) | XGBoost + SHAP explainability | 0.84 AUC, 484K holdout |
 | [AutoModeler](https://github.com/CCallahan308/automodeler) | 3-statement financial models | Excel with linked formulas |
 
 ---
