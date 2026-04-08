@@ -61,7 +61,7 @@ Why this matters: Most portfolio projects skip the rigor. They use single train/
 
 ### Background
 
-**Current:** BI Analyst at Community Hospital (2022–Present)
+**Current:** BI Analyst at Community Hospital (2022-Present)
 - Building dashboards and reports for clinical operations
 - Working with messy healthcare data (HIPAA, missing values, inconsistent coding)
 
