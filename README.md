@@ -49,7 +49,7 @@ Currently exploring: causal inference, feature stores, MLflow, dbt
 
 ### Background
 
-- **BI Analyst** at Community Hospital (2022–Present) — Tableau dashboards, clinical quality reporting, EMR data migration, working with messy healthcare data
+- **BI Analyst** at Community Hospital (2022–2026) — Tableau dashboards, clinical quality reporting, EMR data migration, working with messy healthcare data
 - **MBA + MS Data Science** at Eastern University (expected 2027)
 - **Previous:** Manufacturing, law enforcement — learned to find patterns in noisy data and explain them fast
 
