@@ -1,10 +1,22 @@
 # Christian Callahan
 
-**I figure out who leaves, who buys, and what to do about it.**
+**BI Analyst · I figure out who leaves, who buys, and what to do about it.**
 
-BI analyst building ML systems on the side. Dual Master's (MBA + MS Data Science) at Eastern University, expected 2027.
+Dual Master's (MBA + MS Data Science) at Eastern University, expected 2027. Six years in healthcare BI — clinical quality reporting, EMR migrations, and turning messy hospital data into decisions.
 
 *Open to BI / Data Analyst roles, especially in healthcare.*
+
+---
+
+### MeasureMap — Healthcare KPI Governance
+
+Self-hosted registry for hospitals and health systems to define, approve, and version-control every performance indicator. Solves the "spreadsheet chaos" problem that every quality team knows: dozens of measures across departments, regulatory submissions, and no single source of truth for what a metric means.
+
+Role-based access (Admin / Steward / Viewer), LDAP/Active Directory integration, CSV import with validation, full audit trail with snapshots. Built to run air-gapped in a hospital network.
+
+**Stack:** Next.js 15 · TypeScript · PostgreSQL 16 · Prisma · Docker · Tailwind
+
+[GitHub →](https://github.com/CCallahan308/MeasureMap)
 
 ---
 
@@ -18,41 +30,31 @@ The interesting part: LR beat both ensemble models, and the margin was only stat
 
 ---
 
-### MeasureMap — Healthcare KPI Governance
-
-Self-hosted registry for hospitals and health systems to define, approve, and version-control every performance indicator. Solves the "spreadsheet chaos" of tracking dozens of quality measures across departments and regulatory submissions.
-
-Next.js 15 + PostgreSQL 16, role-based access (Admin / Steward / Viewer), CSV import with validation, full audit trail.
-
-[GitHub →](https://github.com/CCallahan308/MeasureMap)
-
----
-
 ### Other Projects
 
 | Project | What It Does | Result |
 |---------|--------------|--------|
-| [Ticket Intel](https://github.com/CCallahan308/ticket-intel) | NLP support ticket routing | 12ms p99, 90% F1 |
-| [E-Commerce Retention & Growth](https://github.com/CCallahan308/ecommerce-retention-growth) | XGBoost + SHAP on 400M+ event logs | 0.84 AUC, 484K holdout |
-| [SaaS Churn Simulator](https://github.com/CCallahan308/saas-churn-simulator) | Churn model + ROI campaign sim | 0.85 AUC, 3.2x lift |
-| [AutoModeler](https://github.com/CCallahan308/automodeler) | 3-statement financial models from public data | Excel with linked formulas |
+| [E-Commerce Retention & Growth](https://github.com/CCallahan308/ecommerce-retention-growth) | XGBoost + SHAP on 400M+ event logs | 0.84 AUC, 484K user holdout |
+| [SaaS Churn Simulator](https://github.com/CCallahan308/saas-churn-simulator) | LightGBM churn model + ROI campaign simulator | 0.85 AUC, 3.2× lift |
+| [Ticket Intel](https://github.com/CCallahan308/ticket-intel) | NLP support ticket routing — TF-IDF + Naive Bayes | 12ms p99, 90% F1 |
+| [AutoModeler](https://github.com/CCallahan308/automodeler) | 3-statement financial models from a ticker symbol | Linked Excel via FastAPI |
 
 ---
 
 ### Stack
 
-`Python` `SQL` `scikit-learn` `XGBoost` `LightGBM` `PostgreSQL` `FastAPI` `Streamlit` `Docker` `Tableau`
+`Python` `TypeScript` `SQL` `scikit-learn` `XGBoost` `LightGBM` `PostgreSQL` `Next.js` `FastAPI` `Streamlit` `Docker` `Tableau` `Prisma`
 
-Currently exploring: causal inference, feature stores, MLflow, dbt
+Currently exploring: MLflow, dbt, causal inference methods for retention analytics
 
 ---
 
 ### Background
 
-- **BI Analyst** at Community Hospital (2022–2026) — Tableau dashboards, clinical quality reporting, EMR data migration, working with messy healthcare data
+- **BI Analyst** at Community Hospital (2022–2026) — Tableau dashboards, clinical quality reporting, EMR data migration
 - **MBA + MS Data Science** at Eastern University (expected 2027)
-- **Previous:** Manufacturing, law enforcement — learned to find patterns in noisy data and explain them fast
+- **Previous:** Manufacturing, law enforcement — learned to find patterns in noisy data and explain them to people who need a decision, not a model card
 
 ---
 
-- [Portfolio](https://christiangcallahan.tech) • [LinkedIn](https://www.linkedin.com/in/christiangcallahan/) • [Email](mailto:Christian.G.Callahan@gmail.com)
+[Portfolio](https://christiangcallahan.tech) · [LinkedIn](https://www.linkedin.com/in/christiangcallahan/) · [Email](mailto:Christian.G.Callahan@gmail.com)
