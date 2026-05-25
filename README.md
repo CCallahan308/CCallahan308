@@ -1,59 +1,46 @@
 # Christian Callahan
 
-**BI Analyst · I figure out who leaves, who buys, and what to do about it.**
+**Data/ML engineer focused on reproducible, leakage-safe machine learning and honest evaluation.**
 
-Dual Master's (MBA + MS Data Science) at Eastern University, expected 2027. Six years in healthcare BI — clinical quality reporting, EMR migrations, and turning messy hospital data into decisions.
+I build models that survive scrutiny: leakage-safe labeling, real baselines, cross-validation, probability calibration, and a clear line between synthetic and real data. Every metric is committed and reproducible from a clean clone. I work end-to-end — from SQL/warehouse modeling through tuned models to Streamlit/FastAPI interfaces.
 
-*Open to BI / Data Analyst roles, especially in healthcare.*
-
----
-
-### MeasureMap — Healthcare KPI Governance
-
-Self-hosted registry for hospitals and health systems to define, approve, and version-control every performance indicator. Solves the "spreadsheet chaos" problem that every quality team knows: dozens of measures across departments, regulatory submissions, and no single source of truth for what a metric means.
-
-Role-based access (Admin / Steward / Viewer), LDAP/Active Directory integration, CSV import with validation, full audit trail with snapshots. Built to run air-gapped in a hospital network.
-
-**Stack:** Next.js 15 · TypeScript · PostgreSQL 16 · Prisma · Docker · Tailwind
-
-[GitHub →](https://github.com/CCallahan308/MeasureMap)
+**I optimize for correct methodology:** proper train/test discipline, baselines, calibration, and clearly-stated limitations.
 
 ---
 
-### SignalForge — Churn Prediction with Statistical Rigor
+### Featured Projects
 
-Production churn prediction on 7,043 telecom customers. Optuna-tuned Logistic Regression at 0.849 AUC [95% CI: 0.828, 0.869]. Quantified $1.67M annual revenue at risk with a retention ROI framework.
+**[Pit Wall Intelligence](https://github.com/CCallahan308/pit-wall-intelligence)** — F1 race-strategy analytics: FastF1 data in a DuckDB + dbt warehouse; tyre-degradation and undercut-success models served via FastAPI and a 6-page Streamlit dashboard. Calibrated LightGBM undercut classifier (AUC 0.66 ± 0.05, 5-fold GroupKFold on 62/21 train/test race split — GREEN-flag stops only). Monte Carlo race simulator. Pit-cost calculator across 33 circuits with bootstrap CIs, SC/VSC regime separation.
 
-The interesting part: LR beat both ensemble models, and the margin was only statistically significant vs RF (p=0.016), not GB (p=0.130). Without confidence intervals, you'd tell a different story.
+**[SignalForge](https://github.com/CCallahan308/signalforge)** — Churn modeling on IBM Telco with statistical rigor: Optuna tuning, leakage-free CV, bootstrap 95% CIs, paired t-tests, calibration. The three models land within ~0.003 AUC with overlapping confidence intervals — model choice is a calibration/interpretability call, not an accuracy race.
 
-[GitHub →](https://github.com/CCallahan308/signalforge) • [Dashboard →](https://signalforge-ccallahan308.streamlit.app/) • [Write-up →](https://christiangcallahan.tech/projects/signalforge)
+**[SaaS Churn Simulator](https://github.com/CCallahan308/saas-churn-simulator)** — Leakage-safe churn + retention-ROI pipeline on RetailRocket (2.76M events). Time-windowed labeling, visitor-disjoint splits, Optuna-tuned LightGBM, isotonic calibration. 5-fold CV ROC-AUC 0.88 ± 0.06. Reports honestly that the ~99% base rate caps business lift. [Live demo →](https://saas-churn-simulator-ccallahan308.streamlit.app/)
+
+**[Ecommerce Retention & Growth](https://github.com/CCallahan308/ecommerce-retention-growth)** — 30-day churn prediction and LTV segmentation on KKBox data; calibrated XGBoost (ROC-AUC ~0.79), ROI simulator. Ships a synthetic generator so it runs without the large download.
+
+**[Ticket Intel](https://github.com/CCallahan308/ticket-intel)** — Support-ticket routing and summarization on Banking77 using TF-IDF + Naive Bayes by design: fast, interpretable, with a documented rationale for not using an LLM. [Live demo →](https://ticket-intel-ccallahan308.streamlit.app/)
 
 ---
 
-### Other Projects
+### Also
 
-| Project | What It Does | Result |
-|---------|--------------|--------|
-| [E-Commerce Retention & Growth](https://github.com/CCallahan308/ecommerce-retention-growth) | XGBoost + SHAP on 400M+ event logs | 0.84 AUC, 484K user holdout |
-| [SaaS Churn Simulator](https://github.com/CCallahan308/saas-churn-simulator) | LightGBM churn model + ROI campaign simulator | 0.85 AUC, 3.2× lift |
-| [Ticket Intel](https://github.com/CCallahan308/ticket-intel) | NLP support ticket routing — TF-IDF + Naive Bayes | 12ms p99, 90% F1 |
-| [AutoModeler](https://github.com/CCallahan308/automodeler) | 3-statement financial models from a ticker symbol | Linked Excel via FastAPI |
+- **[MeasureMap](https://github.com/CCallahan308/MeasureMap)** — Self-hosted KPI governance registry: define, approve, version, and audit metrics with role-based access, LDAP/AD integration, CSV import with validation, full audit trail. Built to run air-gapped in a hospital network. *Next.js · TypeScript · PostgreSQL · Prisma · Docker*
+- **[Healthcare SQL Analytics](https://github.com/CCallahan308/healthcare-sql-analytics)** — Production EHR analytics SQL patterns from 6 years of clinical and operational BI on Meditech Paragon: wRVU physician productivity, SDOH screening compliance, 340B drug utilization extract, sepsis missed-identification rate. Synthetic identifiers throughout.
+- **[AutoModeler](https://github.com/CCallahan308/automodeler)** — Type a ticker, get a fully-linked 3-statement Excel model. FMP API · FastAPI · Python.
 
 ---
 
 ### Stack
 
-`Python` `TypeScript` `SQL` `scikit-learn` `XGBoost` `LightGBM` `PostgreSQL` `Next.js` `FastAPI` `Streamlit` `Docker` `Tableau` `Prisma`
-
-Currently exploring: MLflow, dbt, causal inference methods for retention analytics
+`Python` `SQL` `TypeScript` `scikit-learn` `XGBoost` `LightGBM` `Optuna` `pandas` `DuckDB` `dbt` `FastAPI` `Streamlit` `Next.js` `PostgreSQL` `Prisma` `pytest` `GitHub Actions` `Docker` `Tableau`
 
 ---
 
 ### Background
 
-- **BI Analyst** at Community Hospital (2022–2026) — Tableau dashboards, clinical quality reporting, EMR data migration
+- **BI Analyst** — 6 years of clinical and operational analytics at a community hospital system on Meditech Paragon EHR: physician productivity reporting, clinical quality (SDOH, sepsis, readmissions), 340B compliance, Tableau dashboards, EMR data migration
 - **MBA + MS Data Science** at Eastern University (expected 2027)
-- **Previous:** Manufacturing, law enforcement — learned to find patterns in noisy data and explain them to people who need a decision, not a model card
+- **Previous:** Manufacturing, law enforcement — learned to find signal in noisy data and explain it to people who need a decision, not a model card
 
 ---
 
