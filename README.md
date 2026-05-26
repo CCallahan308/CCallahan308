@@ -38,7 +38,7 @@ I build models that survive scrutiny: leakage-safe labeling, real baselines, cro
 
 ### Background
 
-- **BI Analyst** — 6 years of clinical and operational analytics at a community hospital system on Meditech Paragon EHR: physician productivity reporting, clinical quality (SDOH, sepsis, readmissions), 340B compliance, Tableau dashboards, EMR data migration
+- **BI Analyst** — 4 years of clinical and operational analytics at a community hospital system on Meditech Paragon EHR: physician productivity reporting, clinical quality (SDOH, sepsis, readmissions), 340B compliance, Tableau dashboards, EMR data migration
 - **MBA + MS Data Science** at Eastern University (expected 2027)
 - **Previous:** Manufacturing, law enforcement — learned to find signal in noisy data and explain it to people who need a decision, not a model card
 
