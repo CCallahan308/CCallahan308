@@ -24,7 +24,6 @@ I build models that survive scrutiny: leakage-safe labeling, real baselines, cro
 
 ### Also
 
-- **[MeasureMap](https://github.com/CCallahan308/MeasureMap)** — Self-hosted KPI governance registry: define, approve, version, and audit metrics with role-based access, LDAP/AD integration, CSV import with validation, full audit trail. Built to run air-gapped in a hospital network. *Next.js · TypeScript · PostgreSQL · Prisma · Docker*
 - **[Healthcare SQL Analytics](https://github.com/CCallahan308/healthcare-sql-analytics)** — Production EHR analytics SQL patterns from 6 years of clinical and operational BI on Meditech Paragon: wRVU physician productivity, SDOH screening compliance, 340B drug utilization extract, sepsis missed-identification rate. Synthetic identifiers throughout.
 - **[AutoModeler](https://github.com/CCallahan308/automodeler)** — Type a ticker, get a fully-linked 3-statement Excel model. FMP API · FastAPI · Python.
 
