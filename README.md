@@ -1,10 +1,12 @@
 # Christian Callahan
 
-**Data/ML engineer focused on reproducible, leakage-safe machine learning and honest evaluation.**
+**Data / ML Engineer — reproducible, leakage-safe machine learning and honest evaluation.**
 
-I build models that survive scrutiny: leakage-safe labeling, real baselines, cross-validation, probability calibration, and a clear line between synthetic and real data. Every metric is committed and reproducible from a clean clone. I work end-to-end — from SQL/warehouse modeling through tuned models to Streamlit/FastAPI interfaces.
+I build models that hold up to scrutiny: leakage-safe labeling, real baselines, cross-validation, probability calibration, and a clear line between synthetic and real data. Every metric is committed and reproducible from a clean clone. I work end-to-end — from SQL/warehouse modeling through tuned models to Streamlit, FastAPI, and Next.js interfaces.
 
-**I optimize for correct methodology:** proper train/test discipline, baselines, calibration, and clearly-stated limitations.
+**I optimize for correct methodology over leaderboard numbers:** proper train/test discipline, baselines, calibration, and clearly-stated limitations.
+
+**Now —** Founder & Principal at [CGC Labs](https://cgclabs.org), building the outsourced BI function for rural and critical access hospitals.
 
 ---
 
@@ -24,7 +26,7 @@ I build models that survive scrutiny: leakage-safe labeling, real baselines, cro
 
 ### Also
 
-- **[Healthcare SQL Analytics](https://github.com/CCallahan308/healthcare-sql-analytics)** — Production EHR analytics SQL patterns from 6 years of clinical and operational BI on Meditech Paragon: wRVU physician productivity, SDOH screening compliance, 340B drug utilization extract, sepsis missed-identification rate. Synthetic identifiers throughout.
+- **[Healthcare SQL Analytics](https://github.com/CCallahan308/healthcare-sql-analytics)** — Production EHR analytics SQL patterns from 4 years of clinical and operational BI on Paragon: wRVU physician productivity, SDOH screening compliance, 340B drug utilization extract, sepsis missed-identification rate. Synthetic identifiers throughout.
 - **[AutoModeler](https://github.com/CCallahan308/automodeler)** — Type a ticker, get a fully-linked 3-statement Excel model. FMP API · FastAPI · Python.
 
 ---
@@ -37,9 +39,10 @@ I build models that survive scrutiny: leakage-safe labeling, real baselines, cro
 
 ### Background
 
-- **BI Analyst** — 4 years of clinical and operational analytics at a community hospital system on Meditech Paragon EHR: physician productivity reporting, clinical quality (SDOH, sepsis, readmissions), 340B compliance, Tableau dashboards, EMR data migration
-- **MBA + MS Data Science** at Eastern University (expected 2027)
-- **Previous:** Manufacturing, law enforcement — learned to find signal in noisy data and explain it to people who need a decision, not a model card
+- **Founder & Principal, CGC Labs** (2026–present) — the outsourced business analyst rural and critical access hospitals can't staff, on retainer: audit-ready CMS, HCAHPS, and MBQIP reporting, KPI governance, and the dashboards a small hospital would build in-house if it could afford the seat.
+- **BI Analyst** (4 years) — clinical and operational analytics at a critical access hospital on Paragon: physician productivity, clinical quality (SDOH, sepsis, readmissions), 340B compliance, Tableau dashboards, and the BI-side data transformation on a Veradigm-to-Paragon EMR migration alongside Altera.
+- **MBA + M.S. Data Science**, Eastern University (expected 2027).
+- **Previously —** manufacturing and law enforcement: learned to find signal in noisy data and explain it to people who need a decision, not a model card.
 
 ---
 
