@@ -26,7 +26,6 @@ I build models that hold up to scrutiny: leakage-safe labeling, real baselines, 
 
 ### Also
 
-- **[Healthcare SQL Analytics](https://github.com/CCallahan308/healthcare-sql-analytics)** — Production EHR analytics SQL patterns from 4 years of clinical and operational BI on Paragon: wRVU physician productivity, SDOH screening compliance, 340B drug utilization extract, sepsis missed-identification rate. Synthetic identifiers throughout.
 - **[AutoModeler](https://github.com/CCallahan308/automodeler)** — Type a ticker, get a fully-linked 3-statement Excel model. FMP API · FastAPI · Python.
 
 ---
