@@ -12,6 +12,8 @@ I build models that hold up to scrutiny: leakage-safe labeling, real baselines, 
 
 ### Featured Projects
 
+**[ED Operations Analytics](https://github.com/CCallahan308/ed-operations-scotland)** — Site-level forecasting of NHS Scotland A&E 4-hour compliance on real Public Health Scotland open data (7,022 Type-1 site-months, 2007–2026). Chronological split, frozen config, holdout scored exactly once; a DuckDB star schema reconciled row-for-row to the Python pipeline. Gradient-boosted + persistence ensemble hits 2.72 pp holdout MAE against a 2.87 pp persistence baseline — but the paired-bootstrap 95% CI on that improvement includes zero, and the README leads with that rather than the win. 111 tests, CI on 3.11/3.12, deployed Streamlit dashboard.
+
 **[Pit Wall Intelligence](https://github.com/CCallahan308/pit-wall-intelligence)** — F1 race-strategy analytics: FastF1 data in a DuckDB + dbt warehouse; tyre-degradation and undercut-success models served via FastAPI and a 6-page Streamlit dashboard. Calibrated LightGBM undercut classifier (AUC 0.66 ± 0.05, 5-fold GroupKFold on 62/21 train/test race split — GREEN-flag stops only). Monte Carlo race simulator. Pit-cost calculator across 33 circuits with bootstrap CIs, SC/VSC regime separation.
 
 **[SignalForge](https://github.com/CCallahan308/signalforge)** — Churn modeling on IBM Telco with statistical rigor: Optuna tuning, leakage-free CV, bootstrap 95% CIs, paired t-tests, calibration. The three models land within ~0.003 AUC with overlapping confidence intervals — model choice is a calibration/interpretability call, not an accuracy race.
