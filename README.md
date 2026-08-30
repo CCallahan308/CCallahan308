@@ -29,7 +29,7 @@ I build models that hold up to scrutiny: leakage-safe labeling, real baselines, 
 ### Also
 
 - **[Pit Wall Intelligence](https://github.com/CCallahan308/pit-wall-intelligence)** — F1 race strategy: FastF1 → DuckDB + dbt warehouse, calibrated LightGBM undercut classifier, Monte Carlo race simulator, pit-cost calculator across 33 circuits.
-- **[SaaS Churn Simulator](https://github.com/CCallahan308/saas-churn-simulator)** — Retention-ROI simulation on 2.76M RetailRocket events: what a churn model is worth when the base rate caps lift. [Live demo →](https://saas-churn-simulator-ccallahan308.streamlit.app/)
+- **[Churn ROI Simulator](https://github.com/CCallahan308/churn-roi-simulator)** — Event-log churn scoring turned into a retention-budget decision on 2.76M RetailRocket events: what a churn model is worth when the base rate caps lift. [Live demo →](https://saas-churn-simulator-ccallahan308.streamlit.app/)
 - **[Ecommerce Retention & Growth](https://github.com/CCallahan308/ecommerce-retention-growth)** — LTV segmentation and win-back budget sizing on KKBox data, with a synthetic generator so it runs cold.
 
 ---
