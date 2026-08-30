@@ -31,7 +31,6 @@ I build models that hold up to scrutiny: leakage-safe labeling, real baselines, 
 - **[Pit Wall Intelligence](https://github.com/CCallahan308/pit-wall-intelligence)** — F1 race strategy: FastF1 → DuckDB + dbt warehouse, calibrated LightGBM undercut classifier, Monte Carlo race simulator, pit-cost calculator across 33 circuits.
 - **[SaaS Churn Simulator](https://github.com/CCallahan308/saas-churn-simulator)** — Retention-ROI simulation on 2.76M RetailRocket events: what a churn model is worth when the base rate caps lift. [Live demo →](https://saas-churn-simulator-ccallahan308.streamlit.app/)
 - **[Ecommerce Retention & Growth](https://github.com/CCallahan308/ecommerce-retention-growth)** — LTV segmentation and win-back budget sizing on KKBox data, with a synthetic generator so it runs cold.
-- **[Healthcare SQL Analytics](https://github.com/CCallahan308/healthcare-sql-analytics)** — Production SQL patterns for EHR analytics on Meditech Paragon: wRVU productivity, SDOH, sepsis, 340B.
 
 ---
 
